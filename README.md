@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Priyambada Pandey</h1>
+<h1 align="center">Hi there 👋, I'm Priyambada Pandey</h1>
 <h3 align="center">A passionate frontend developer </h3>
 
-- 🌱 I’m currently learning **angular javascript**
+- 🌱 I’m currently learning **angular javascript and java**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/priyambada11" target="blank"><img align="center" src="https:/cdn.jsdeliver.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="priyambada pandey" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/priyambada-pandey-45b2b318b/" target="blank"><img align="center" src="https:/cdn.jsdeliver.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="priyambada pandey" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
